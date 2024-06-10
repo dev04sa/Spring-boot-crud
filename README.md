@@ -8,6 +8,15 @@ The application provides a user interface to perform CRUD operations on a databa
 
 - Frontend: Built with Vite, a modern frontend tooling. It provides the user interface for interacting with the CRUD functionalities.
 - Backend: Built with Spring Boot, a powerful Java-based framework. It handles the business logic and data persistence for the application.
+  
+
+
+https://github.com/dev04sa/Spring-boot-crud/assets/129666293/081eb0d5-fcdf-4b10-bb4d-40b3c59bb0dc
+
+
+![Screenshot 2024-06-10 104618](https://github.com/dev04sa/Spring-boot-crud/assets/129666293/752058d2-3525-48f3-8676-c0c3997b167b)
+
+
 
 ## Prerequisites
 
